@@ -1,16 +1,13 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🫀
 
-<!--
-**KaduPaz/KaduPaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Meu nome é Carlos Eduardo
 
-Here are some ideas to get you started:
+  - Estou estudando na Alura
+  - Estou me desenvolvendo na linguagem JavaScript
+  - Utilizo esse espaço para organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    ### você entrar em contato comigo 📧
+
+    carlos.eduardo.paz@escola.pr.gov.br
+
+    ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Froger-guedes&psig=AOvVaw14DHA1zShCP4fHBqpRLtzN&ust=1692283722627000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDLnae24YADFQAAAAAdAAAAABAD)
